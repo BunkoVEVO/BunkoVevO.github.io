@@ -1,0 +1,27 @@
+Web Development Basics:
+
+- When a web user opens a website a request is made to the [web server] that holds the web files.
+
+- The [browser] on the front-end or on the user's computer is what actually runs or interprets the HTML and CSS code and renders, or presents, the webpage.
+
+What is HTML:
+
+- HTML gives [structure] to a web page.
+
+- the [body] tag contains all the tags that will display in the page of the browser.
+
+More HTML Elements and Attributes:
+
+- Both the [header] and the [footer] elements will hold elements that will remain the same from page to page in our website.
+
+- The [nav] element is used to hold the menu links for your web page.
+
+- [attributes] are additional information inside of an element tag. They are made up of name/value pairs.
+
+- [semantic] tags, are tags that you can tell what type of content it has because of the element being used. They describe the content you are adding to the page.
+
+What is CSS:
+
+- CSS is the language used to [style] and HTML page.
+
+- the very best way to apply CSS to your HMTL is to... [use an separate CSS file]
